@@ -6,7 +6,7 @@ import {
 } from 'spectacle';
 
 export default () => (
-  <Slide backgroundColor="backgroundColor">
+  <Slide key="service-providers" backgroundColor="backgroundColor">
     <FlexBox size="100%" flexDirection="column" alignItems="center">
       <Heading fontSize="xxl" color="secondary">
         SERVICE PROVIDERS

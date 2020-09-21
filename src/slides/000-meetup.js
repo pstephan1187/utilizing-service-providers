@@ -3,4 +3,4 @@ import {
   Slide,
 } from 'spectacle';
 
-export default () => <Slide backgroundImage="url(/img/meetup-img.jpeg)"></Slide>
+export default () => <Slide key="meetup" backgroundImage="url(/img/meetup-img.jpeg)"><span>&nbsp;</span></Slide>

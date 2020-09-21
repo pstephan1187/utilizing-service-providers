@@ -4,9 +4,11 @@ export default {
   colors: {
     primary: 'white',
     secondary: '#ff2d20',
+    transparent: '#ffb9b5',
     tertiary: '#333333',
     quaternary: '#ff2d20',
     light: '#d8d8d8',
+    faded: '#999999',
     backgroundColor: '#FFFFFF'
   },
   fonts: {
